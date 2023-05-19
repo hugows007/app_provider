@@ -1,7 +1,7 @@
-import 'package:app_testes/modules/login/provider.dart';
-import 'package:app_testes/modules/login/states/auth_state.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+
+import 'auth.dart';
 
 class AuthPage extends StatelessWidget {
   const AuthPage({super.key, required this.title});

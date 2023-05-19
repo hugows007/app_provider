@@ -1,8 +1,5 @@
-import 'package:app_testes/modules/login/mixins/variables.dart';
 import 'package:flutter/material.dart';
-
-import 'states/auth_state.dart';
-import 'validations/doc_validator.dart';
+import 'auth.dart';
 
 abstract class Auth {
   void auth();

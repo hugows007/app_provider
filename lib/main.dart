@@ -1,7 +1,7 @@
-import 'package:app_testes/modules/login/pages/auth.dart';
-import 'package:app_testes/modules/login/provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+
+import 'modules/auth/auth.dart';
 
 void main() {
   runApp(const MyApp());

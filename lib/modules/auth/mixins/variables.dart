@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
-
-import '../states/auth_state.dart';
+import '../auth.dart';
 
 mixin AuthVariables {
   TextEditingController docController = TextEditingController();
